@@ -272,7 +272,7 @@ function addArtist(/* Code here */){
     /* Code here */
 
   }
-
+//
 /* Task 7: Create a function called lotsOfArt() that takes one argument: 
 
     (1) artists array 
